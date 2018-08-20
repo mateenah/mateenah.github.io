@@ -38,7 +38,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/about/about.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "\n    <div class=row>\n        <!-- <div class=\"col-sm-6\">\n            <div class=\"media\" style=\"background:url('./assets/img_LRM2.jpg')\"></div>\n            <img id=\"img_about\" src=\"../assets/img_LRM2.jpg\" alt=\"\"> \n        </div> -->\n        <div class=\"col-md-6\">\n\n            <div class=\"birds\">\n              <div class=\"birds__hatdove\">\n                <div class=\"birds__hatdove-shadow\"></div>\n                <div class=\"birds__hatdove-head\">\n                  <div class=\"birds__hatdove-hat\"></div>\n                  <div class=\"birds__hatdove-forehead\"></div>\n                  <div class=\"birds__hatdove-eye\"></div>\n                  <div class=\"birds__hatdove-eye\"></div>\n                  <div class=\"birds__hatdove-beak\"></div>\n                </div>\n                <div class=\"birds__hatdove-backwing\"></div>\n                <div class=\"birds__circles-1\"></div>\n                <div class=\"birds__hatdove-backleg\">\n                  <div class=\"birds__curly\"></div>\n                </div>\n                <div class=\"birds__hatdove-body\"></div>\n                <div class=\"birds__hatdove-frontleg\">\n                  <div class=\"birds__curly\"></div>\n                </div>\n                <div class=\"birds__hatdove-frontwing\"></div>\n                <div class=\"birds__circles-2\"></div>\n                <div class=\"birds__hatdove-frontwing-finger\"></div>\n                <div class=\"birds__hatdove-frontwing-finger\"></div>\n                <div class=\"birds__hatdove-frontwing-finger\"></div>\n              </div>\n              <div class=\"birds__table\">\n                <div class=\"birds__table-shadow\"></div>\n              </div>\n              <div class=\"birds__laptop\"></div>\n              <div class=\"birds__laptop\">\n                <div class=\"birds__monitor\">\n                  <div class=\"birds__code\"></div>\n                </div>\n              </div>\n              <div class=\"birds__coffee\"></div>\n              <div class=\"birds__feather\"></div>\n              <div class=\"birds__feather\"></div>\n              <div class=\"birds__rundove-shadow\"></div>\n              <div class=\"birds__rundove\">\n                <div class=\"birds__rundove-backwing\">\n                  <div class=\"birds__finger\"></div>\n                  <div class=\"birds__finger\"></div>\n                  <div class=\"birds__finger\"></div>\n                  <div class=\"birds__circles\"></div>\n                </div>\n                <div class=\"birds__rundove-head\">\n                  <div class=\"birds__rundove-eye\"></div>\n                  <div class=\"birds__rundove-eye\"></div>\n                  <div class=\"birds__rundove-beak\"></div>\n                </div>\n                <div class=\"birds__rundove-backleg\">\n                  <div class=\"birds__curly\"></div>\n                </div>\n                <div class=\"birds__rundove-body\"></div>\n                <div class=\"birds__rundove-frontleg\">\n                  <div class=\"birds__curly\"></div>\n                </div>\n                <div class=\"birds__rundove-frontwing\">\n                  <div class=\"birds__finger\"></div>\n                  <div class=\"birds__finger\"></div>\n                  <div class=\"birds__finger\"></div>\n                  <div class=\"birds__circles\"></div>\n                </div>\n              </div>\n            </div>\n          \n        </div>\n        <div class=\"col-md-6\">\n            <div id=\"about_info\">\n                <h3>Glad You Are Here</h3>\n                <p>\"Hi! I'm</p>\n                <h1>Mateenah</h1>\n                <p> working as a front-end developer with over 4 years of experience in a wide range of disciplines, \n                    producing high quality responsive websites and exceptional user experience. I have \n                    a passion to learn the best practices when designing UX/UI for the web.\"</p>\n                <p>I'm currently working with HTML, CSS, Bootstrap, Angular and a smattering of jQuery. \n                    I'll be sharing samples of some of my work here down the road as I add to my skill \n                    set, so stay tuned for updates. </p>          \n            </div>   \n            <div id=\"explore\" class=\"explore-100\">\n                <!-- <a class=\"scrollMe\" (click)=\"gotoResume()\">\n                    Explore\n                    <i class=\"fa fa-long-arrow-down\" id=\"downKey\" aria-hidden=\"true\" (click)=\"gotoResume()\"></i>\n                </a> -->\n                \n                  <i class=\"fa fa-long-arrow-down\" id=\"arrow\" aria-hidden=\"true\" (click)=\"gotoResume()\"></i>\n                \n            </div> \n        </div>\n        <!-- <div class=\"col-sm-1\">\n                <div class=\"bar\">\n                        <span>About Mateenah</span>\n                </div>\n        </div> -->\n        \n        \n    </div>\n\n    \n    "
+module.exports = "\n    <div class=row>\n        <!-- <div class=\"col-sm-6\">\n            <div class=\"media\" style=\"background:url('./assets/img_LRM2.jpg')\"></div>\n            <img id=\"img_about\" src=\"../assets/img_LRM2.jpg\" alt=\"\"> \n        </div> -->\n        <div class=\"col-md-6\">\n\n            <div class=\"birds\">\n              <div class=\"birds__hatdove\">\n                <div class=\"birds__hatdove-shadow\"></div>\n                <div class=\"birds__hatdove-head\">\n                  <div class=\"birds__hatdove-hat\"></div>\n                  <div class=\"birds__hatdove-forehead\"></div>\n                  <div class=\"birds__hatdove-eye\"></div>\n                  <div class=\"birds__hatdove-eye\"></div>\n                  <div class=\"birds__hatdove-beak\"></div>\n                </div>\n                <div class=\"birds__hatdove-backwing\"></div>\n                <div class=\"birds__circles-1\"></div>\n                <div class=\"birds__hatdove-backleg\">\n                  <div class=\"birds__curly\"></div>\n                </div>\n                <div class=\"birds__hatdove-body\"></div>\n                <div class=\"birds__hatdove-frontleg\">\n                  <div class=\"birds__curly\"></div>\n                </div>\n                <div class=\"birds__hatdove-frontwing\"></div>\n                <div class=\"birds__circles-2\"></div>\n                <div class=\"birds__hatdove-frontwing-finger\"></div>\n                <div class=\"birds__hatdove-frontwing-finger\"></div>\n                <div class=\"birds__hatdove-frontwing-finger\"></div>\n              </div>\n              <div class=\"birds__table\">\n                <div class=\"birds__table-shadow\"></div>\n              </div>\n              <div class=\"birds__laptop\"></div>\n              <div class=\"birds__laptop\">\n                <div class=\"birds__monitor\">\n                  <div class=\"birds__code\"></div>\n                </div>\n              </div>\n              <div class=\"birds__coffee\"></div>\n              <div class=\"birds__feather\"></div>\n              <div class=\"birds__feather\"></div>\n              <div class=\"birds__rundove-shadow\"></div>\n              <div class=\"birds__rundove\">\n                <div class=\"birds__rundove-backwing\">\n                  <div class=\"birds__finger\"></div>\n                  <div class=\"birds__finger\"></div>\n                  <div class=\"birds__finger\"></div>\n                  <div class=\"birds__circles\"></div>\n                </div>\n                <div class=\"birds__rundove-head\">\n                  <div class=\"birds__rundove-eye\"></div>\n                  <div class=\"birds__rundove-eye\"></div>\n                  <div class=\"birds__rundove-beak\"></div>\n                </div>\n                <div class=\"birds__rundove-backleg\">\n                  <div class=\"birds__curly\"></div>\n                </div>\n                <div class=\"birds__rundove-body\"></div>\n                <div class=\"birds__rundove-frontleg\">\n                  <div class=\"birds__curly\"></div>\n                </div>\n                <div class=\"birds__rundove-frontwing\">\n                  <div class=\"birds__finger\"></div>\n                  <div class=\"birds__finger\"></div>\n                  <div class=\"birds__finger\"></div>\n                  <div class=\"birds__circles\"></div>\n                </div>\n              </div>\n            </div>\n          \n        </div>\n        <div class=\"col-md-6\">\n            <div id=\"about_info\">\n                <h3>Glad You Are Here</h3>\n                <p>\"Hi! I'm</p>\n                <h1>Mateenah</h1>\n                <p> working as a front-end developer with over 4 years of experience in a wide range of disciplines, \n                    producing high quality responsive websites and exceptional user experience. I have \n                    a passion to learn the best practices when designing UX/UI for the web.\"</p>\n                <p>I'm currently working with HTML, CSS, Bootstrap, Angular and a smattering of jQuery. \n                    I'll be sharing samples of some of my work here down the road as I add to my skill \n                    set, so stay tuned for updates. </p>          \n            </div>   \n            <div id=\"explore\" class=\"explore-100\">\n                <!-- <a class=\"scrollMe\" (click)=\"gotoResume()\">\n                    Explore\n                    <i class=\"fa fa-long-arrow-down\" id=\"downKey\" aria-hidden=\"true\" (click)=\"gotoResume()\"></i>\n                </a> -->\n                \n                  <i class=\"fa fa-long-arrow-down\" id=\"arrow\" aria-hidden=\"true\" (click)=\"gotoResume()\"></i>\n                \n            </div> \n        </div>\n        <!-- <div class=\"col-sm-1\">\n                <div class=\"bar\">\n                        <span>About Mateenah</span>\n                </div>\n        </div> -->\n        \n        \n    </div>\n\n\n        \n\n    \n    "
 
 /***/ }),
 
@@ -104,7 +104,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"container\">  </div>\n<header id=\"header\">\n    <nav class=\"navbar navbar-expand-md bg-faded navbar-light\"> \n                \n        <div class=\"container-fluid navfont\">\n            <!-- <div class=\"navbar-header\">\n                    <a class=\"navbar-brand\">MATEENAH</a>\n            </div> -->\n            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#collapsibleNavbar\">\n                <span class=\"navbar-toggler-icon\"></span>\n            </button>\n            <div class=\"collapse navbar-collapse\" id=\"collapsibleNavbar\">\n                <ul class=\"nav navbar-nav ml-auto\">\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link\" [routerLink]=\"['/home']\">Home</a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link\" (click)=\"gotoAbout()\">About</a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link\" (click)=\"gotoResume()\">Skills</a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link\" (click)=\"gotoFooter()\">Contact</a>\n                    </li>\n                </ul>\n            </div>\n        </div>\n    </nav>\n</header>\n<main id=\"main\">\n    <div class=\"container-fluid\">\n        <!-- <router-outlet></router-outlet>  -->\n        <app-home></app-home>\n        <app-about></app-about> \n        <app-resume></app-resume>\n         <!-- <app-skills></app-skills>     -->\n         <app-connect></app-connect>\n    </div>   \n</main>\n<footer id=\"footer\">\n        <app-footer></app-footer>\n        <br><br>\n        <div>\n        <i class=\"fa fa-long-arrow-up\" id=\"arrow\" aria-hidden=\"true\" (click)=\"gotoTop()\"></i>\n        </div>\n</footer>\n    \n\n       \n\n\n"
+module.exports = "<div class=\"container\">  </div>\n<header id=\"header\">\n    <nav class=\"navbar navbar-expand-md bg-faded navbar-light\"> \n                \n        <div class=\"container-fluid navfont\">\n            <!-- <div class=\"navbar-header\">\n                    <a class=\"navbar-brand\">MATEENAH</a>\n            </div> -->\n            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#collapsibleNavbar\">\n                <span class=\"navbar-toggler-icon\"></span>\n            </button>\n            <div class=\"collapse navbar-collapse\" id=\"collapsibleNavbar\">\n                <ul class=\"nav navbar-nav ml-auto\">\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link\" [routerLink]=\"['/home']\">Home</a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link\" (click)=\"gotoAbout()\">About</a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link\" (click)=\"gotoResume()\">Skills</a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link\" (click)=\"gotoFooter()\">Contact</a>\n                    </li>\n                </ul>\n            </div>\n        </div>\n    </nav>\n</header>\n<main id=\"main\">\n    <div class=\"container-fluid\">\n        <router-outlet></router-outlet>\n    </div>   \n</main>\n<footer id=\"footer\">\n        <app-footer></app-footer>\n        <br><br>\n        <div>\n        <i class=\"fa fa-long-arrow-up\" id=\"arrow\" aria-hidden=\"true\" (click)=\"gotoTop()\"></i>\n        </div>\n</footer>\n    \n\n       \n\n\n"
 
 /***/ }),
 
@@ -128,6 +128,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var AppComponent = (function () {
     function AppComponent(myElement) {
         this.myElement = myElement;
+        this.title = 'app';
     }
     AppComponent.prototype.gotoTop = function () {
         var el = this.myElement.nativeElement.querySelector('nav');
@@ -172,20 +173,30 @@ var AppComponent = (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_platform_browser__ = __webpack_require__("../../../platform-browser/esm5/platform-browser.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_router__ = __webpack_require__("../../../router/esm5/router.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_ng2_page_scroll__ = __webpack_require__("../../../../ng2-page-scroll/ng2-page-scroll.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__app_component__ = __webpack_require__("../../../../../src/app/app.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__home_home_component__ = __webpack_require__("../../../../../src/app/home/home.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__skills_skills_component__ = __webpack_require__("../../../../../src/app/skills/skills.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__footer_footer_component__ = __webpack_require__("../../../../../src/app/footer/footer.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__about_about_component__ = __webpack_require__("../../../../../src/app/about/about.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__resume_resume_component__ = __webpack_require__("../../../../../src/app/resume/resume.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__connect_connect_component__ = __webpack_require__("../../../../../src/app/connect/connect.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__form_form_component__ = __webpack_require__("../../../../../src/app/form/form.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_angularfire2__ = __webpack_require__("../../../../angularfire2/index.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_angularfire2_database__ = __webpack_require__("../../../../angularfire2/database/index.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__app_component__ = __webpack_require__("../../../../../src/app/app.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__home_home_component__ = __webpack_require__("../../../../../src/app/home/home.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__skills_skills_component__ = __webpack_require__("../../../../../src/app/skills/skills.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__footer_footer_component__ = __webpack_require__("../../../../../src/app/footer/footer.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__about_about_component__ = __webpack_require__("../../../../../src/app/about/about.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__resume_resume_component__ = __webpack_require__("../../../../../src/app/resume/resume.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__connect_connect_component__ = __webpack_require__("../../../../../src/app/connect/connect.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__form_form_component__ = __webpack_require__("../../../../../src/app/form/form.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__home_home_module__ = __webpack_require__("../../../../../src/app/home/home.module.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__reviews_reviews_component__ = __webpack_require__("../../../../../src/app/reviews/reviews.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__environments_environment__ = __webpack_require__("../../../../../src/environments/environment.ts");
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
+
+
+
+
+
 
 
 
@@ -206,26 +217,30 @@ var AppModule = (function () {
             imports: [
                 __WEBPACK_IMPORTED_MODULE_1__angular_platform_browser__["a" /* BrowserModule */],
                 __WEBPACK_IMPORTED_MODULE_3_ng2_page_scroll__["a" /* Ng2PageScrollModule */],
+                __WEBPACK_IMPORTED_MODULE_14__home_home_module__["a" /* HomeModule */],
+                __WEBPACK_IMPORTED_MODULE_4_angularfire2__["a" /* AngularFireModule */].initializeApp(__WEBPACK_IMPORTED_MODULE_16__environments_environment__["a" /* environment */].firebase),
+                __WEBPACK_IMPORTED_MODULE_5_angularfire2_database__["b" /* AngularFireDatabaseModule */],
                 __WEBPACK_IMPORTED_MODULE_2__angular_router__["e" /* RouterModule */].forRoot([
-                    { path: 'home', component: __WEBPACK_IMPORTED_MODULE_5__home_home_component__["a" /* HomeComponent */] },
-                    { path: 'skills', component: __WEBPACK_IMPORTED_MODULE_6__skills_skills_component__["a" /* SkillsComponent */] },
-                    { path: 'about', component: __WEBPACK_IMPORTED_MODULE_8__about_about_component__["a" /* AboutComponent */] },
-                    { path: 'resume', component: __WEBPACK_IMPORTED_MODULE_9__resume_resume_component__["a" /* ResumeComponent */] },
-                    { path: 'form', component: __WEBPACK_IMPORTED_MODULE_11__form_form_component__["a" /* FormComponent */] },
+                    { path: 'home', component: __WEBPACK_IMPORTED_MODULE_7__home_home_component__["a" /* HomeComponent */] },
+                    // {path:'skills', component:SkillsComponent},
+                    // {path:'about', component:AboutComponent},
+                    // {path:'resume', component:ResumeComponent},
+                    { path: 'form', component: __WEBPACK_IMPORTED_MODULE_13__form_form_component__["a" /* FormComponent */] },
                     { path: '', redirectTo: 'home', pathMatch: 'full' },
                 ])
             ],
             declarations: [
-                __WEBPACK_IMPORTED_MODULE_4__app_component__["a" /* AppComponent */],
-                __WEBPACK_IMPORTED_MODULE_5__home_home_component__["a" /* HomeComponent */],
-                __WEBPACK_IMPORTED_MODULE_6__skills_skills_component__["a" /* SkillsComponent */],
-                __WEBPACK_IMPORTED_MODULE_7__footer_footer_component__["a" /* FooterComponent */],
-                __WEBPACK_IMPORTED_MODULE_8__about_about_component__["a" /* AboutComponent */],
-                __WEBPACK_IMPORTED_MODULE_9__resume_resume_component__["a" /* ResumeComponent */],
-                __WEBPACK_IMPORTED_MODULE_10__connect_connect_component__["a" /* ConnectComponent */],
-                __WEBPACK_IMPORTED_MODULE_11__form_form_component__["a" /* FormComponent */]
+                __WEBPACK_IMPORTED_MODULE_6__app_component__["a" /* AppComponent */],
+                __WEBPACK_IMPORTED_MODULE_7__home_home_component__["a" /* HomeComponent */],
+                __WEBPACK_IMPORTED_MODULE_8__skills_skills_component__["a" /* SkillsComponent */],
+                __WEBPACK_IMPORTED_MODULE_9__footer_footer_component__["a" /* FooterComponent */],
+                __WEBPACK_IMPORTED_MODULE_10__about_about_component__["a" /* AboutComponent */],
+                __WEBPACK_IMPORTED_MODULE_11__resume_resume_component__["a" /* ResumeComponent */],
+                __WEBPACK_IMPORTED_MODULE_12__connect_connect_component__["a" /* ConnectComponent */],
+                __WEBPACK_IMPORTED_MODULE_13__form_form_component__["a" /* FormComponent */],
+                __WEBPACK_IMPORTED_MODULE_15__reviews_reviews_component__["a" /* ReviewsComponent */]
             ],
-            bootstrap: [__WEBPACK_IMPORTED_MODULE_4__app_component__["a" /* AppComponent */]]
+            bootstrap: [__WEBPACK_IMPORTED_MODULE_6__app_component__["a" /* AppComponent */]]
         })
     ], AppModule);
     return AppModule;
@@ -256,7 +271,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/connect/connect.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"row border-bottom\">\n    <div class=\"container\">\n            <div class=\"column\">\n                <h2 class=\"title\">Interested in collaborating or investing?</h2>\n                <h3 class=\"subtitle\">\n                  I’m always open to discussing product design work or partnership opportunities.</h3>\n                <a href=\"mailto:mateenah.connect@gmail.com\" class=\"cta-button\">Email Me <span class=\"arrow-right\">→</span></a>            \n                <a href=\"/form\" class=\"cta-button\">Email Me <span class=\"arrow-right\">→</span></a>            \n           \n            </div>\n    </div>\n</div>\n\n<router-outlet></router-outlet> \n\n"
+module.exports = "<div class=\"row border-bottom\">\n    <div class=\"container\">\n            <div class=\"column\">\n                <h2 class=\"title\">Interested in collaborating or investing?</h2>\n                <h3 class=\"subtitle\">\n                  I’m always open to discussing product design work or new opportunities.</h3>\n                <!-- <a (click)=\"callContact()\" class=\"cta-button\">Email Me \n                    <span class=\"arrow-right\">→</span></a>             -->\n                <a href=\"mailton:mateenah.connect@gmail.com\" class=\"cta-button\">Email Me \n                    <span class=\"arrow-right\">→</span></a>            \n           \n            </div>\n    </div>\n</div>\n\n\n\n"
 
 /***/ }),
 
@@ -266,6 +281,7 @@ module.exports = "<div class=\"row border-bottom\">\n    <div class=\"container\
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ConnectComponent; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("../../../core/esm5/core.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_router__ = __webpack_require__("../../../router/esm5/router.js");
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -276,10 +292,20 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 
+
 var ConnectComponent = (function () {
-    function ConnectComponent() {
+    // constructor() { }
+    function ConnectComponent(_router) {
+        this._router = _router;
     }
+    //   callContact()
+    // {
+    //  this._router.navigate(["../form"]);
+    // } 
     ConnectComponent.prototype.ngOnInit = function () {
+    };
+    ConnectComponent.prototype.callContact = function () {
+        window.location.replace("http://localhost:7200/form");
     };
     ConnectComponent = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
@@ -287,7 +313,7 @@ var ConnectComponent = (function () {
             template: __webpack_require__("../../../../../src/app/connect/connect.component.html"),
             styles: [__webpack_require__("../../../../../src/app/connect/connect.component.css")]
         }),
-        __metadata("design:paramtypes", [])
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_router__["d" /* Router */]])
     ], ConnectComponent);
     return ConnectComponent;
 }());
@@ -396,7 +422,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/form/form.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<!-- Material form contact -->\n<div class=\"card\">\n\n    <h5 class=\"card-header info-color white-text text-center py-4\">\n        <strong>Contact us</strong>\n    </h5>\n\n    <!--Card content-->\n    <div class=\"card-body px-lg-5 pt-0\">\n\n        <!-- Form -->\n        <form class=\"text-center\" style=\"color: #757575;\">\n\n            <!-- Name -->\n            <div class=\"md-form mt-3\">\n                <input type=\"text\" id=\"materialContactFormName\" class=\"form-control\">\n                <label for=\"materialContactFormName\">Name</label>\n            </div>\n\n            <!-- E-mail -->\n            <div class=\"md-form\">\n                <input type=\"email\" id=\"materialContactFormEmail\" class=\"form-control\">\n                <label for=\"materialContactFormEmail\">E-mail</label>\n            </div>\n\n            <!-- Subject -->\n            <span>Subject</span>\n            <select class=\"mdb-select\">\n                <option value=\"\" disabled>Choose option</option>\n                <option value=\"1\" selected>Feedback</option>\n                <option value=\"2\">Report a bug</option>\n                <option value=\"3\">Feature request</option>\n                <option value=\"4\">Feature request</option>\n            </select>\n\n            <!--Message-->\n            <div class=\"md-form\">\n                <textarea type=\"text\" id=\"materialContactFormMessage\" class=\"form-control md-textarea\" rows=\"3\"></textarea>\n                <label for=\"materialContactFormMessage\">Message</label>\n            </div>\n\n            <!-- Copy -->\n            <div class=\"form-check\">\n                <input type=\"checkbox\" class=\"form-check-input\" id=\"materialContactFormCopy\">\n                <label class=\"form-check-label\" for=\"materialContactFormCopy\">Send me a copy of this message</label>\n            </div>\n\n            <!-- Send button -->\n            <button class=\"btn btn-outline-info btn-rounded btn-block z-depth-0 my-4 waves-effect\" type=\"submit\">Send</button>\n\n        </form>\n        <!-- Form -->\n\n    </div>\n\n</div>\n<!-- Material form contact -->"
+module.exports = "<!-- Material form contact -->\n<div class=\"card\">\n\n    <h5 class=\"card-header info-color white-text text-center py-4\">\n        <strong>Contact us</strong>\n    </h5>\n\n    <!--Card content-->\n    <div class=\"card-body px-lg-5 pt-0\">\n\n        <!-- Form -->\n        <form class=\"text-center\" style=\"color: #757575;\">\n\n            <!-- Name -->\n            <div class=\"md-form mt-3\">\n                <input type=\"text\" id=\"materialContactFormName\" class=\"form-control\">\n                <label for=\"materialContactFormName\">Name</label>\n            </div>\n\n            <!-- E-mail -->\n            <div class=\"md-form\">\n                <input type=\"email\" id=\"materialContactFormEmail\" class=\"form-control\">\n                <label for=\"materialContactFormEmail\">E-mail</label>\n            </div>\n\n            <!-- Subject -->\n            <span>Subject</span>\n            <select class=\"mdb-select\">\n                <option value=\"\" disabled>Choose option</option>\n                <option value=\"1\" selected>Feedback</option>\n                <option value=\"2\">Report a bug</option>\n                <option value=\"3\">Feature request</option>\n                <option value=\"4\">Feature request</option>\n            </select>\n\n            <!--Message-->\n            <div class=\"md-form\">\n                <textarea type=\"text\" id=\"materialContactFormMessage\" class=\"form-control md-textarea\" rows=\"3\"></textarea>\n                <label for=\"materialContactFormMessage\">Message</label>\n            </div>\n\n            <!-- Copy -->\n            <div class=\"form-check\">\n                <input type=\"checkbox\" class=\"form-check-input\" id=\"materialContactFormCopy\">\n                <label class=\"form-check-label\" for=\"materialContactFormCopy\">Send me a copy of this message</label>\n            </div>\n\n            <!-- Send button -->\n            <button class=\"btn btn-outline-info btn-rounded btn-block z-depth-0 my-4 waves-effect\" type=\"submit\">Send</button>\n\n        </form>\n        <!-- Form -->\n\n    </div>\n\n</div>\n<!-- Material form contact -->\n"
 
 /***/ }),
 
@@ -457,7 +483,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/home/home.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "\n    <div class=\"row\">\n        <div class=\"container mt-3\">\n        <div class=\"d-flex justify-content-center bg-faded mb-3\">\n            <div class=\"column\">\n                    <h1 class=\"font-weight-bold title\">Designer & Front-end Developer</h1>\n                    <h2 class=\"font-weight-normal subtitle\">I design and code beautifully simple things, and I love what I do.</h2>\n            \n                    <div class=\"img_container\">\n                            <img [src]=\"path\" alt=\"Avatar\" class=\"image avatar\">\n                            <div class=\"middle\">\n                              <div class=\"\"></div>\n                            </div>\n                    </div>\n            </div>    \n        </div>\n        <div id=\"explore\" class=\"explore-100\">\n                <a class=\"scrollMe\" (click)=\"gotoAbout()\">\n                    Explore\n                    <i class=\"fa fa-long-arrow-down\" id=\"downKey\" aria-hidden=\"true\" (click)=\"gotoAbout()\"></i>\n                </a>\n        </div> \n    </div>\n  </div>     \n\n"
+module.exports = "\n    <div class=\"row\">\n        <div class=\"container mt-3\">\n        <div class=\"d-flex justify-content-center bg-faded mb-3\">\n            <div class=\"column\">\n                    <h1 class=\"font-weight-bold title\">Designer & Front-end Developer</h1>\n                    <h2 class=\"font-weight-normal subtitle\">I design and code beautifully simple things, and I love what I do.</h2>\n            \n                    <div class=\"img_container\">\n                            <img [src]=\"path\" alt=\"Avatar\" class=\"image avatar\">\n                            <div class=\"middle\">\n                              <div class=\"\"></div>\n                            </div>\n                    </div>\n            </div>    \n        </div>\n        <div id=\"explore\" class=\"explore-100\">\n                <a class=\"scrollMe\" (click)=\"gotoAbout()\">\n                    Explore\n                    <i class=\"fa fa-long-arrow-down\" id=\"downKey\" aria-hidden=\"true\" (click)=\"gotoAbout()\"></i>\n                </a>\n        </div> \n    </div>\n  </div>     \n\n <app-about></app-about> \n\n        <app-resume></app-resume> \n       \n         <app-connect></app-connect> \n       <!--   <app-reviews></app-reviews>-->\n  <!-- <app-skills></app-skills>     -->"
 
 /***/ }),
 
@@ -497,6 +523,55 @@ var HomeComponent = (function () {
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* ElementRef */]])
     ], HomeComponent);
     return HomeComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "../../../../../src/app/home/home.module.ts":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return HomeModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("../../../core/esm5/core.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_platform_browser__ = __webpack_require__("../../../platform-browser/esm5/platform-browser.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_router__ = __webpack_require__("../../../router/esm5/router.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_ng2_page_scroll__ = __webpack_require__("../../../../ng2-page-scroll/ng2-page-scroll.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__skills_skills_component__ = __webpack_require__("../../../../../src/app/skills/skills.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__about_about_component__ = __webpack_require__("../../../../../src/app/about/about.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__resume_resume_component__ = __webpack_require__("../../../../../src/app/resume/resume.component.ts");
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+var HomeModule = (function () {
+    function HomeModule() {
+    }
+    HomeModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1__angular_platform_browser__["a" /* BrowserModule */],
+                __WEBPACK_IMPORTED_MODULE_3_ng2_page_scroll__["a" /* Ng2PageScrollModule */],
+                __WEBPACK_IMPORTED_MODULE_2__angular_router__["e" /* RouterModule */].forRoot([
+                    { path: 'skills', component: __WEBPACK_IMPORTED_MODULE_4__skills_skills_component__["a" /* SkillsComponent */] },
+                    { path: 'about', component: __WEBPACK_IMPORTED_MODULE_5__about_about_component__["a" /* AboutComponent */] },
+                    { path: 'resume', component: __WEBPACK_IMPORTED_MODULE_6__resume_resume_component__["a" /* ResumeComponent */] },
+                ])
+            ],
+            declarations: []
+        })
+    ], HomeModule);
+    return HomeModule;
 }());
 
 
@@ -559,6 +634,150 @@ var ResumeComponent = (function () {
         __metadata("design:paramtypes", [])
     ], ResumeComponent);
     return ResumeComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "../../../../../src/app/reviews/reviews.component.css":
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, "#myCarousel{\n    width:80%;\n}", ""]);
+
+// exports
+
+
+/*** EXPORTS FROM exports-loader ***/
+module.exports = module.exports.toString();
+
+/***/ }),
+
+/***/ "../../../../../src/app/reviews/reviews.component.html":
+/***/ (function(module, exports) {
+
+module.exports = "\n<div class=\"container mt-3\">\n    <div column=\"col-md-12 mx-auto\">\n    <!-- The carousel -->\n    <div id=\"myCarousel\" class=\"carousel slide mx-auto border\" data-ride=\"carousel\" data-interval=\"3000\" data-pause=\"hover\" data-keyboard=\"true\">\n  \n    <!-- Indicators -->\n    <ul class=\"carousel-indicators\">\n      <li data-target=\"#myCarousel\" data-slide-to=\"0\" class=\"active\"></li>\n      <li data-target=\"#myCarousel\" data-slide-to=\"1\"></li>\n      <li data-target=\"#myCarousel\" data-slide-to=\"2\"></li>\n    </ul>\n    \n    <!-- The slideshow -->\n    <div class=\"carousel-inner\">\n      <div class=\"carousel-item active\">\n        <!-- <img src=\"../assets/img_LRM1.jpg\" alt=\"Los Angeles\" width=\"1100\" height=\"500\"> -->\n\n        <blockquote>\n            <div class=\"row\">\n                <div class=\"col-sm-8 col-sm-offset-2 mx-auto\">\n                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. !</p>\n                    <small>Someone famous</small>\n                </div>\n            </div>\n        </blockquote>\n      \n      </div>\n      <div class=\"carousel-item\">\n        <!-- <img src=\"../assets/img_LRM1.jpg\" alt=\"Chicago\" width=\"1100\" height=\"500\"> -->\n        <blockquote>\n            <div class=\"row\">\n                <div class=\"col-sm-8 col-sm-offset-2 mx-auto\">\n                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. !</p>\n                    <small>Someone famous</small>\n                </div>\n            </div>\n        </blockquote>\n      </div>\n      <div class=\"carousel-item\">\n        <!-- <img src=\"../assets/img_LRM1.jpg\" alt=\"New York\" width=\"1100\" height=\"500\"> -->\n        <blockquote>\n            <div class=\"row\">\n                <div class=\"col-sm-8 col-sm-offset-2 mx-auto\">\n                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. !</p>\n                    <small>Someone famous</small>\n                </div>\n            </div>\n        </blockquote>\n      </div>\n    </div>\n    \n    <!-- Left and right controls -->\n    <a class=\"carousel-control-prev\" href=\"#myCarousel\" data-slide=\"prev\">\n      <span class=\"carousel-control-prev-icon\"></span>\n    </a>\n    <a class=\"carousel-control-next\" href=\"#myCarousel\" data-slide=\"next\">\n      <span class=\"carousel-control-next-icon\"></span>\n    </a>\n  </div>\n  <h2>Carousel Options</h2>\n  <p>The <strong>data-keyboard</strong> attribute specifies whether the carousel should react to keyboard events</p>\n  \n\n  <form>\n     \n      <div class=\"input-group mb-3\">\n        <input type=\"text\" class=\"form-control\" placeholder=\"Your Email\" #itemReview>\n        <div class=\"input-group-addon hover-cursor\" (click)=\"onAdd(itemReview)\">\n          <i class=\"fa fa-plus-circle fa-2x\"></i>\n        </div>\n      </div>\n    </form>\n\n\n    </div>\n  </div>"
+
+/***/ }),
+
+/***/ "../../../../../src/app/reviews/reviews.component.ts":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ReviewsComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("../../../core/esm5/core.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__reviews_service__ = __webpack_require__("../../../../../src/app/reviews/reviews.service.ts");
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var ReviewsComponent = (function () {
+    function ReviewsComponent(reviewsService) {
+        this.reviewsService = reviewsService;
+    }
+    ReviewsComponent.prototype.ngOnInit = function () {
+        var _this = this;
+        this.reviewsService.goToReviewsList().snapshotChanges()
+            .subscribe(function (item) {
+            _this.reviewsListArray = [];
+            item.forEach(function (element) {
+                var x = element.payload.toJSON();
+                x["$key"] = element.key;
+                _this.reviewsListArray.push(x);
+            });
+            //sort array isChecked false => true
+            _this.reviewsListArray.sort(function (a, b) {
+                return a.isChecked - b.isChecked;
+            });
+        });
+    };
+    ReviewsComponent.prototype.onAdd = function (itemReview) {
+        this.reviewsService.addReview(itemReview.value);
+        itemReview.value = null;
+    };
+    ReviewsComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
+            selector: 'app-reviews',
+            template: __webpack_require__("../../../../../src/app/reviews/reviews.component.html"),
+            styles: [__webpack_require__("../../../../../src/app/reviews/reviews.component.css")],
+            providers: [__WEBPACK_IMPORTED_MODULE_1__reviews_service__["a" /* ReviewsService */]]
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__reviews_service__["a" /* ReviewsService */]])
+    ], ReviewsComponent);
+    return ReviewsComponent;
+}());
+
+/*
+// // service cloud.firestore {
+//   match /databases/{database}/documents {
+//     match /{document=**} {
+//       allow read, write;
+//     }
+//   }
+// }
+//
+ {
+rules
+// }*/ 
+
+
+/***/ }),
+
+/***/ "../../../../../src/app/reviews/reviews.service.ts":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ReviewsService; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("../../../core/esm5/core.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_angularfire2_database__ = __webpack_require__("../../../../angularfire2/database/index.js");
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var ReviewsService = (function () {
+    function ReviewsService(firebasedb) {
+        this.firebasedb = firebasedb;
+    }
+    ReviewsService.prototype.goToReviewsList = function () {
+        this.reviews = this.firebasedb.list('titles');
+        return this.reviews;
+    };
+    ReviewsService.prototype.addReview = function (title) {
+        this.reviews.push({
+            title: title,
+            isChecked: false
+        });
+    };
+    ReviewsService.prototype.checkedUnchecked = function ($key, flag) {
+        this.reviews.update($key, { isChecked: flag });
+    };
+    ReviewsService.prototype.removeReview = function ($key) {
+        this.reviews.remove($key);
+    };
+    ReviewsService = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Injectable */])(),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_angularfire2_database__["a" /* AngularFireDatabase */]])
+    ], ReviewsService);
+    return ReviewsService;
 }());
 
 
@@ -636,7 +855,15 @@ var SkillsComponent = (function () {
 // `ng build --env=prod` then `environment.prod.ts` will be used instead.
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 var environment = {
-    production: false
+    production: false,
+    firebase: {
+        apiKey: "AIzaSyAKYy9cITiTqdBN30lEcXHVV_ldwB0mvqk",
+        authDomain: "addreviews-29e24.firebaseapp.com",
+        databaseURL: "https://addreviews-29e24.firebaseio.com",
+        projectId: "addreviews-29e24",
+        storageBucket: "addreviews-29e24.appspot.com",
+        messagingSenderId: "8871055812"
+    }
 };
 
 
